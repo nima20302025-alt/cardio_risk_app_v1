@@ -11,7 +11,7 @@
 [![Deployed on Railway](https://img.shields.io/badge/Deployed%20on-Railway-0B0D0E?logo=railway&logoColor=white)]([https://railway.app/](https://cardiorisk-app-v1-production.up.railway.app/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[🔗 Live demo](https://cardio-risk-app-production.up.railway.app)** · [Features](#-features) · [Results](#-results) · [Run locally](#-run-locally) · [Deploy](#-deploy-to-railway)
+**[🔗 Live demo](https://cardiorisk-app-v1-production.up.railway.app/)** · [Features](#-features) · [Results](#-results) · [Run locally](#-run-locally) · [Deploy](#-deploy-to-railway)
 
 </div>
 
