@@ -1,0 +1,96 @@
+{
+  "best_model": "Gradient Boosting",
+  "validation_results": {
+    "Logistic Regression": {
+      "accuracy": 0.7188107267780801,
+      "auc": 0.7873337135174331
+    },
+    "Decision Tree": {
+      "accuracy": 0.7174504469490867,
+      "auc": 0.7831726614901202
+    },
+    "Random Forest": {
+      "accuracy": 0.7049164399533618,
+      "auc": 0.7641157698350354
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.7286241741158181,
+      "auc": 0.7956748897214334
+    },
+    "K-Nearest Neighbors": {
+      "accuracy": 0.7175476097940148,
+      "auc": 0.7729672110097286
+    }
+  },
+  "test_accuracy": 0.7416439953361834,
+  "test_auc": 0.8098461765061333,
+  "confusion_matrix": [
+    [
+      4095,
+      1105
+    ],
+    [
+      1554,
+      3538
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.724907063197026,
+      "recall": 0.7875,
+      "f1-score": 0.7549082864780164,
+      "support": 5200.0
+    },
+    "1": {
+      "precision": 0.7620073228516046,
+      "recall": 0.694815396700707,
+      "f1-score": 0.7268618387262455,
+      "support": 5092.0
+    },
+    "accuracy": 0.7416439953361834,
+    "macro avg": {
+      "precision": 0.7434571930243152,
+      "recall": 0.7411576983503535,
+      "f1-score": 0.740885062602131,
+      "support": 10292.0
+    },
+    "weighted avg": {
+      "precision": 0.7432625356184324,
+      "recall": 0.7416439953361834,
+      "f1-score": 0.7410322165254303,
+      "support": 10292.0
+    }
+  },
+  "feature_columns": [
+    "age_years",
+    "gender",
+    "height",
+    "weight",
+    "bmi",
+    "ap_hi",
+    "ap_lo",
+    "pulse_pressure",
+    "cholesterol",
+    "gluc",
+    "smoke",
+    "alco",
+    "active"
+  ],
+  "feature_importances": {
+    "age_years": 0.11952091350139404,
+    "gender": 0.0005182959734221209,
+    "height": 0.0025449203992730096,
+    "weight": 0.012556617118853839,
+    "bmi": 0.015054774490437977,
+    "ap_hi": 0.7421805172730451,
+    "ap_lo": 0.015465176256014776,
+    "pulse_pressure": 0.0017467833666134273,
+    "cholesterol": 0.07494634298951795,
+    "gluc": 0.005653575911643271,
+    "smoke": 0.002491164869880644,
+    "alco": 0.001390018758367334,
+    "active": 0.0059308990915365786
+  },
+  "n_rows_after_cleaning": 68611,
+  "trained_at": "2026-09-07 21:29:20"
+}
