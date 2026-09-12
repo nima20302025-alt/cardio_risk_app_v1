@@ -8,7 +8,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.38-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![SHAP](https://img.shields.io/badge/Explainability-SHAP-8A2BE2)](https://github.com/shap/shap)
-[![Deployed on Railway](https://img.shields.io/badge/Deployed%20on-Railway-0B0D0E?logo=railway&logoColor=white)]([https://railway.app/](https://cardiorisk-app-v1-production.up.railway.app/))
+[![Deployed on Railway](https://img.shields.io/badge/Deployed%20on-Railway-0B0D0E?logo=railway&logoColor=white)]([https://railway.app/]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **[🔗 Live demo](https://cardiorisk-app-v1-production.up.railway.app/)** · [Features](#-features) · [Results](#-results) · [Run locally](#-run-locally) · [Deploy](#-deploy-to-railway)
