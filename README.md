@@ -34,7 +34,25 @@ notebook.
 ## 📸 Screenshots
 
 <div align="center">
-<i>Add a screenshot or short GIF of the Predict tab, the SHAP explanation panel, and the Explore Data tab here.</i>
+
+<img src="images/Screenshot (61).png" alt="Predict Tab" width="800">
+
+<br><br>
+
+<img src="images/Screenshot (62).png" width="800">
+
+<br><br>
+
+<img src="images/Screenshot (63).png" width="800">
+
+<br><br>
+
+<img src="images/Screenshot (64).png" width="800">
+
+<br><br>
+
+<img src="images/Screenshot (65).png"  width="800">
+
 </div>
 
 ## 🚀 Features
